@@ -18,6 +18,12 @@ Edit the account name and password for user:
 username: "your_username"
 password: "your_password"
 ```
-
 Execute the program code and then confirm that the computer will not shut down.
+
+### Roadmap
+- [x] Add random time sign-in
+- [x] Add apscheduler for automation
+- [ ] Add sign-out function
+- [ ] Bundle .py and its api files into .exe packages
+
 
