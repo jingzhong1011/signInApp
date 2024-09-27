@@ -7,7 +7,8 @@ pip install selenium
 ```
 
 > [!WARNING]  
-> This approach use `ChromeDriver` for automation, please download and install the corresponding [ChromeDriver](https://developer.chrome.com/docs/chromedriver/downloads?hl=zh-tw) to make sure the process is supported. 
+> 1. You need a desktop with wired internet IP in NTU to execute the program.
+> 2. This approach use `ChromeDriver` for automation, please download and install the corresponding [ChromeDriver](https://developer.chrome.com/docs/chromedriver/downloads?hl=zh-tw) to make sure the process is supported. 
 
 ### Environment
 `Python >= 3.7` (confirmed)
