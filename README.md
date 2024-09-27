@@ -3,7 +3,10 @@ This approach provides a simple solution for auto-sign-in in NTU's signing websi
 
 For example, you can install these packages with `pip install` in the terminal:
 ```{shell}
+pip install webdriver
 pip install selenium
+pip install apscheduler
+pip install random
 ```
 
 > [!WARNING]  
